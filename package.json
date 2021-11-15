@@ -1,0 +1,12 @@
+{
+  "name": "worktop-types-repro",
+  "private": true,
+  "scripts": {
+    "check": "tsc --noemit"
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "^3.1.1",
+    "typescript": "4.4.4",
+    "worktop": "0.8.0-next.6"
+  }
+}
